@@ -21,6 +21,8 @@ This project allows users to enter their subjects and daily study hours. The sys
 - To build a beginner-friendly Python application
 
 ---
+![alt text](screenshots/3.png)
+
 
 # ⚙️ Methodology
 
@@ -59,6 +61,9 @@ The total study hours are calculated and analyzed.
 
 ---
 
+![alt text](screenshots/2.png)
+
+
 # 🚨 Problem Statement
 
 Many students fail to manage their time effectively during exam preparation. Poor planning often leads to stress, procrastination, and low productivity.
@@ -76,6 +81,8 @@ This project aims to solve this issue by providing a simple digital study planne
 - Convert into mobile application
 
 ---
+
+![alt text](screenshots/1.png)
 
 # 🖼️ Sample Output
 
@@ -102,6 +109,7 @@ Enter study hours per day: 2
        📝 YOUR STUDY PLAN
 ===================================
 
+
 Maths  -->  3 hours daily
 Physics  -->  2 hours daily
 Chemistry  -->  2 hours daily
@@ -121,3 +129,6 @@ Chemistry  -->  2 hours daily
 # 👩‍💻 Developed By
 
 yogita jadhav
+
+
+[def]: 1.png
